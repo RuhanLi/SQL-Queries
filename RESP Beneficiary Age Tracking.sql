@@ -1,4 +1,4 @@
-use CaptoolsDB
+use DB
 go
 
 
